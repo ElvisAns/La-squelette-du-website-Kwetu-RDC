@@ -1,5 +1,5 @@
 # La-squelette-du-website-Kwetu-RDC
 
-My Fisrt website using pure CSS
+My Fisrt home made website
 
 visit https://kwetuwebsite.netlify.app/ for seeing it
